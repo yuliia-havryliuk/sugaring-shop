@@ -1,0 +1,14 @@
+.introContent{
+    padding-top: 100px;
+}
+.introImage{
+    border-radius: 5px;
+}
+.introImages{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.introImageSmall{
+    border-radius: 5px;
+}
